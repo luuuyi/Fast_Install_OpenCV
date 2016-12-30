@@ -1,0 +1,2 @@
+# Fast_Install_OpenCV
+方便国内的小伙伴快速的在自己服务器上部署opencv环境

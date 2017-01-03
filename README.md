@@ -9,7 +9,7 @@
 ### Usage
 if your system is Ubuntu, run the commands below.
 ```
-$ cd Ubuntu
-$ chmod +x * 
-$ ./opencv_latest.sh
+$ cd Fast_Install_OpenCV
+$ chmod +x opencv2_4_10.sh 
+$ ./opencv2_4_10.sh
 ```
